@@ -102,7 +102,7 @@ PlayableComponent.instance.firstInteraction();
 PlayableComponent.instance.firstInteraction();
 ```
 
-- При показе endcard или скриншота обязательно вызывайте:
+- При показе endcard или пекшота обязательно вызывайте:
 
 ```ts
 PlayableComponent.instance.gameEnd();
